@@ -1,63 +1,63 @@
 ## Architecture
 
 - Application structure
-  - Modularity c
-  - Components u
-  - Directories u
-  - GRASP u
-  - SOLID u
-  - GoF patterns h
-  - CQS h
-  - Leaking abstractions k
-  - Multiparadigm code u
-  - Contract programming u
-  - Platform-agnostic u
-  - Transport-agnostic u
-  - Framework-agnostic u
-  - Code coverage u
-  - Cohesion u
-  - Coupling u
-  - Cyclomatic complexity u
-  - Reliability u
-  - Quality u
-  - Availability k
-  - Flexibility u
+  - Modularity: 🚀 constructed
+  - Components: 🖐️ used
+  - Directories: 🖐️ used
+  - GRASP: 🖐️ used
+  - SOLID: 🖐️ used
+  - GoF patterns: 👂 heard
+  - CQS: 👂 heard
+  - Leaking abstractions: 🎓 known
+  - Multiparadigm code: 🖐️ used
+  - Contract programming: 🖐️ used
+  - Platform-agnostic: 🖐️ used
+  - Transport-agnostic: 🖐️ used
+  - Framework-agnostic: 🖐️ used
+  - Code coverage: 🖐️ used
+  - Cohesion: 🖐️ used
+  - Coupling: 🖐️ used
+  - Cyclomatic complexity: 🖐️ used
+  - Reliability: 🖐️ used
+  - Quality: 🖐️ used
+  - Availability: 🎓 known
+  - Flexibility: 🖐️ used
   - Law of Demeter (LoD)
 - Application architecture
-  - Isolation between layer u
+  - Isolation between layer: 🖐️ used
   - Domain-specific language (DSL)
   - System vs applied code
-  - Multilayer approach u
+  - Multilayer approach: 🖐️ used
   - Hexagonal architecture
   - Separation of concerns (SoC)
   - Metaprogramming
-  - Inversion of control (IoC) u
-  - Dependency injection (DI) c
-  - Clean architecture u
+  - Inversion of control (IoC): 🖐️ used
+  - Dependency injection (DI): 🚀 constructed
+  - Clean architecture: 🖐️ used
   - Domain-driven design (DDD)
-  - Pub/sub h
+  - Pub/sub: 👂 heard
   - Message brocker
-  - Agent h
+  - Agent: 👂 heard
   - Service locator
-  - Message Queue (MQ) u
+  - Message Queue (MQ): 🖐️ used
   - CQRS
   - Event sourcing
   - E-R data modeling
-  - Entity-relationship diagram u
+  - Entity-relationship diagram: 🖐️ used
   - IDEF1X
-  - UML u
+  - UML: 🖐️ used
   - Work breakdown structure
   - Budget estimation
-  - Distributed systems u
+  - Distributed systems: 🖐️ used
   - High-intensive computing
-  - Load balancing u
-  - Gateways u
+  - Load balancing: 🖐️ used
+  - Gateways: 🖐️ used
   - On-premises
-  - IaaS u
-  - PaaS u
-  - SaaS u
+  - IaaS: 🖐️ used
+  - PaaS: 🖐️ used
+  - SaaS: 🖐️ used
   - FaaS clouds
-  - Serverless k
+  - Serverless: 🎓 known
   - Vendor lock-in
   - Bus factor
 - Solution architecture
